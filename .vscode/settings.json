@@ -1,0 +1,9 @@
+{
+  "dart.hotReloadOnSave": "all",
+  "files.autoSave": "off",
+  "notebook.codeActionsOnSave": {
+
+  },
+  "dart.previewHotReloadOnSaveWatcher": false,
+  "dart.flutterHotReloadOnSave": "all"
+}
